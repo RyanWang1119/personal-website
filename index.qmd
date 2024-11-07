@@ -1,0 +1,28 @@
+---
+title: "Ryan Wang"
+title-align: center
+format: 
+  html:
+    html-math-method: katex
+    codetools:
+      code-block-border-left: "#31BAE9"
+      code-block-bg: whitesmoke
+image: IMG_E4773.jpg
+toc: false
+about: 
+  template: jolla
+  image-shape: rectangle
+  image-width: 17em
+  links:
+    - icon: github
+      text: GitHub
+      href: https://github.com/RyanWang1119
+    - icon: envelope
+      text: Email
+      href: mailto:ewang35@jh.edu
+editor:
+    render-on-save: true
+
+---
+
+Hi there! Ryan Wang here.
