@@ -1,0 +1,28 @@
+project:
+  type: website
+
+website:
+  title: "Ryan Wang"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - about.qmd
+      - sample_analysis.qmd
+
+publish:
+  provider: "github"
+  branch: "main"
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+    page-layout: full
+    codetools:
+      code-block-border-left: "#31BAE9"
+      code-block-bg: whitesmoke
+
+
+

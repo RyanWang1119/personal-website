@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Ryan Wang",
+    "section": "",
+    "text": "Hi there! Ryan Wang here."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About Me",
+    "section": "",
+    "text": "Hi! I’m Ryan Wang, a first-year ScM student studying biostatistics at Johns Hopkins Bloomberg School of Public Health.\nOutside of academics, I’m also a huge fan of rock climbing (especially bouldering) and working out. My home gym is Movement Hampden. I just recovered from a moderate ankle sprain. Besides that, I also enjoy pop Japanese culture, electronic music and watching tennis. In the near future, I might consider taking up squash or golf—or maybe both!"
+  },
+  {
+    "objectID": "about.html#technical-skills",
+    "href": "about.html#technical-skills",
+    "title": "About Me",
+    "section": " Technical Skills",
+    "text": "Technical Skills\n\n\n\n\n\n\n\nComputation\n\n\n\nR\n\n\n\nGolang\n\n\n\nPython\n\n\n\nSAS"
+  },
+  {
+    "objectID": "about.html#presentations",
+    "href": "about.html#presentations",
+    "title": "About Me",
+    "section": " Presentations ",
+    "text": "Presentations \n Sept 9, 2022 | Hofmann’s Lab Meeting University of California, Santa Barbara   Ocean pH value fluctuation pattern in the Inter-tidal area along the California Coastline  10-minute talk presenting ongoing project aimed to understand the seasonal and daily fluctuation pattern of ocean pH values."
+  }
+]
