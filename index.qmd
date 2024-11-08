@@ -7,7 +7,7 @@ format:
     codetools:
       code-block-border-left: "#31BAE9"
       code-block-bg: whitesmoke
-image: IMG_E4773.jpg
+image: pics\me_pic.jpg
 toc: false
 about: 
   template: jolla
@@ -25,4 +25,6 @@ editor:
 
 ---
 
-Hi there! Ryan Wang here.
+Hi there! Ryan Wang here.\
+I am a first-year ScM student studying biostatistics at Johns Hopkins Bloomberg School of Public Health. \
+I am a huge rock music fan, and an enthusiastic powerlifter.

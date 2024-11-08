@@ -5,13 +5,14 @@ editor:
     render-on-save: true
 ---
 
-# Bio
-
 <div style="font-size: 90%; color:  #8C1721;">
 
-Hi! I'm Ryan Wang, a first-year ScM student studying biostatistics at [Johns Hopkins Bloomberg School of Public Health](https://www.jhsph.edu).
+# Bio
 
-Outside of academics, I’m also a huge fan of rock climbing (especially bouldering) and working out. My home gym is [Movement Hampden](https://movementgyms.com/hampden/). I just recovered from a moderate ankle sprain. Besides that, I also enjoy pop Japanese culture, electronic music and watching tennis. In the near future, I might consider taking up squash or golf—or maybe both!
+Hi! I'm Ryan Wang, a first-year ScM student studying biostatistics at [Johns Hopkins Bloomberg School of Public Health](https://www.jhsph.edu).
+I enjoy this field of study because I think biological theories can be better put into practice with the help of the rigor of statistics.
+
+Professional and research interests are still waiting to be explored. 
 
 # Education
 
@@ -25,51 +26,37 @@ Outside of academics, I’m also a huge fan of rock climbing (especially boulder
 
 </div>
 
-## <span style="color:  #8C1721;"> Technical Skills</span>
+## <span style="color:  #8C1721;"> Computation Skills</span>
   
-|  |  |
-|:------------------------------------------------|:--------------------|
-| **Computation** |
-| R | Golang | Python | SAS |
+R, Golang, Python, SAS, SQL
 
-  
----
+
 
 ## <span style="color:  #8C1721;"> Presentations </span>
 <br>
-Sept 9, 2022 \| Hofmann's Lab Meeting University of California, Santa Barbara
+Sept 9, 2022 \| Hofmann's Lab Meeting \| University of California, Santa Barbara
 <br>
 <span style="color:  #EC8C6F;"> **Ocean pH value fluctuation pattern in the Inter-tidal area along the California Coastline**</span>
 <br>
 10-minute talk presenting ongoing project aimed to understand the seasonal and daily fluctuation pattern of ocean pH values.
 
 
-# Pictures of Me (and my interests)
-
+# My Interests
+I am a huge rock music fan, and here are the pictures of my Favorite bands and entertainers.
 <div style="display: flex; flex-wrap: wrap; gap: 15px; justify-content: center; text-align: center;">
 
 <div>
-  <img src="At_Japan.JPG" width="160px" alt="Picture 1">
-  <p><em>At Japan Osaka Castle</em></p>
+  <img src="pics\floyd.jpg" width="500px" alt="Picture 1">
+  <p><em>Pink Floyd - Feel comfortbly numb whenever I listen</em></p>
 </div>
 
 <div>
-  <img src="Japan2.JPG" width="175px" alt="Picture 2">
-  <p><em>Exploring Japan</em></p>
+  <img src="pics\zeppelin.jpg" width="500px" alt="Picture 2">
+  <p><em>Led Zeppelin - The pilgrimage to heavy metal Mecca</em></p>
 </div>
 
 <div>
-  <img src="Graduation.JPG" width="300px" alt="Picture 3">
-  <p><em>Graduation Day</em></p>
+  <img src="pics\ec.webp" width="500px" alt="Picture 3">
+  <p><em>Eric Clapton - "Slowhand"</em></p>
 </div>
 
-<div>
-  <img src="Climbing-1.jpg" width="180px" alt="Picture 4">
-  <p><em>Bouldering</em></p>
-</div>
-
-</div>
-
-:::{.column-page-inset}
-![I am also a Jellycat fan! Go Jellycat!](pumpkin_jellycats.JPG)
-:::
