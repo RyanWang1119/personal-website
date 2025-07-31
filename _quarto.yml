@@ -9,7 +9,7 @@ website:
       - href: index.qmd
         text: Home
       - about.qmd
-      - sample_analysis.qmd
+      
 
 publish:
   provider: "github"

@@ -9,10 +9,10 @@ editor:
 
 # Bio
 
-Hi! I'm Ryan Wang, a first-year ScM student studying biostatistics at [Johns Hopkins Bloomberg School of Public Health](https://www.jhsph.edu).
+Hi! I'm Ryan Wang, a second-year master student studying biostatistics at [Johns Hopkins Bloomberg School of Public Health](https://www.jhsph.edu).
 I enjoy this field of study because I think biological theories can be better put into practice with the help of the rigor of statistics.
 
-Professional and research interests are still waiting to be explored. 
+I am currently studying the application of time series in modeling the noise pattern of functional MRI data under the supervision of Dr. Martin Lindquist.
 
 # Education
 
@@ -28,7 +28,7 @@ Professional and research interests are still waiting to be explored.
 
 ## <span style="color:  #8C1721;"> Computation Skills</span>
   
-R, Golang, Python, SAS, SQL
+R, Golang, Python, SAS, SQL, MATLAB (Still learning)
 
 
 
@@ -42,7 +42,7 @@ Sept 9, 2022 \| Hofmann's Lab Meeting \| University of California, Santa Barbara
 
 
 # My Interests
-I am a huge rock music fan, and here are the pictures of my Favorite bands and entertainers.
+I am a huge rock music fan, and here are the pictures of my favorite bands and musicians.
 <div style="display: flex; flex-wrap: wrap; gap: 15px; justify-content: center; text-align: center;">
 
 <div>

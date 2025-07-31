@@ -26,5 +26,5 @@ editor:
 ---
 
 Hi there! Ryan Wang here.\
-I am a first-year ScM student studying biostatistics at Johns Hopkins Bloomberg School of Public Health. \
+I am a second-year master student studying biostatistics at Johns Hopkins Bloomberg School of Public Health. \
 I am a huge rock music fan, and an enthusiastic powerlifter.

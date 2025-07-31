@@ -11,14 +11,14 @@
     "href": "about.html",
     "title": "About Me",
     "section": "",
-    "text": "Hi! I’m Ryan Wang, a first-year ScM student studying biostatistics at Johns Hopkins Bloomberg School of Public Health. I enjoy this field of study because I think biological theories can be better put into practice with the help of the rigor of statistics.\nProfessional and research interests are still waiting to be explored.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDegree\nInstitution\nMajor\nDuration\nLocation\n\n\n\n\nScM\nJohns Hopkins University  Bloomberg School of Public Health\nBiostatistics\nAug 2024 -\nBaltimore, MD\n\n\nB.S.\nUniversity of California, Santa Barbara\nStatistics and Data Science\nSept 2020 - June 2024\nSanta Barbara, CA\n\n\nMinor\nUniversity of California, Santa Barbara\nMathematics\nSept 2020 - June 2024\nSanta Barbara, CA\n\n\n\n\n\n\nR, Golang, Python, SAS, SQL\n\n\n\n Sept 9, 2022 | Hofmann’s Lab Meeting | University of California, Santa Barbara   Ocean pH value fluctuation pattern in the Inter-tidal area along the California Coastline  10-minute talk presenting ongoing project aimed to understand the seasonal and daily fluctuation pattern of ocean pH values.\n\n\n\n\nI am a huge rock music fan, and here are the pictures of my Favorite bands and entertainers.\n\n\n\n\nPink Floyd - Feel comfortbly numb whenever I listen\n\n\n\n\n\nLed Zeppelin - The pilgrimage to heavy metal Mecca\n\n\n\n\n\nEric Clapton - “Slowhand”"
+    "text": "Hi! I’m Ryan Wang, a second-year master student studying biostatistics at Johns Hopkins Bloomberg School of Public Health. I enjoy this field of study because I think biological theories can be better put into practice with the help of the rigor of statistics.\nI am currently studying the application of time series in modeling the noise pattern of functional MRI data under the supervision of Dr. Martin Lindquist.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDegree\nInstitution\nMajor\nDuration\nLocation\n\n\n\n\nScM\nJohns Hopkins University  Bloomberg School of Public Health\nBiostatistics\nAug 2024 -\nBaltimore, MD\n\n\nB.S.\nUniversity of California, Santa Barbara\nStatistics and Data Science\nSept 2020 - June 2024\nSanta Barbara, CA\n\n\nMinor\nUniversity of California, Santa Barbara\nMathematics\nSept 2020 - June 2024\nSanta Barbara, CA\n\n\n\n\n\n\nR, Golang, Python, SAS, SQL, MATLAB (Still learning)\n\n\n\n Sept 9, 2022 | Hofmann’s Lab Meeting | University of California, Santa Barbara   Ocean pH value fluctuation pattern in the Inter-tidal area along the California Coastline  10-minute talk presenting ongoing project aimed to understand the seasonal and daily fluctuation pattern of ocean pH values.\n\n\n\n\nI am a huge rock music fan, and here are the pictures of my favorite bands and musicians.\n\n\n\n\nPink Floyd - Feel comfortbly numb whenever I listen\n\n\n\n\n\nLed Zeppelin - The pilgrimage to heavy metal Mecca\n\n\n\n\n\nEric Clapton - “Slowhand”"
   },
   {
     "objectID": "about.html#computation-skills",
     "href": "about.html#computation-skills",
     "title": "About Me",
     "section": "",
-    "text": "R, Golang, Python, SAS, SQL"
+    "text": "R, Golang, Python, SAS, SQL, MATLAB (Still learning)"
   },
   {
     "objectID": "about.html#presentations",
@@ -32,6 +32,6 @@
     "href": "index.html",
     "title": "Ryan Wang",
     "section": "",
-    "text": "Hi there! Ryan Wang here.\nI am a first-year ScM student studying biostatistics at Johns Hopkins Bloomberg School of Public Health.\nI am a huge rock music fan, and an enthusiastic powerlifter."
+    "text": "Hi there! Ryan Wang here.\nI am a second-year master student studying biostatistics at Johns Hopkins Bloomberg School of Public Health.\nI am a huge rock music fan, and an enthusiastic powerlifter."
   }
 ]
